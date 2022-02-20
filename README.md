@@ -1,4 +1,4 @@
-# BasicBankingSystem
+# Basic-Banking-System
 
 ***I have created a Basic Banking System as an intern for the Sparks Foundation.*** <br>
 #GRIPFEB22
