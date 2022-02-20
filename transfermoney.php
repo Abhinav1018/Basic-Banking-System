@@ -19,7 +19,7 @@
     </style>
 </head>
 
-<body style="background-color : #82E0F9;">
+<body style="background-color : #2CBAE9;">
 <?php
     include 'config.php';
     $sql = "SELECT * FROM users";
