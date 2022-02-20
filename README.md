@@ -1,14 +1,16 @@
 # BasicBankingSystem
-***I have created the Basic Banking System as an intern for the Sparks Foundation.***
-#GRIPMAY21 
+
+***I have created a Basic Banking System as an intern for the Sparks Foundation.***
+#GRIPFEB22
 
 Intern @ Spark Foundation
 
 Task 1: Basic Banking System
 
-The Basic Banking System website function is to transfer money from one account to another account.
+The Basic Banking System website function is to transfer money from one person's account to another person's account.
+<br>
 
-**FrontEnd: HTML, CSS, JS ***
-***Backend: PHP***
-***Database: MySQL***
+<b><i>FrontEnd: HTML, CSS, JS</i></b><br>
+<b><i>Backend: PHP</i></b><br>
+<b><i>Database: MySQL</i></b>
       
